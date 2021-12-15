@@ -10,4 +10,8 @@ EfficientNetB3_without_Hyperparameter.ipynb : This file contains implementation 
 
 ResNet152_with_Hyperparameter.ipynb : This file contains implementation of ResNet152 model with hyperparameter tuning using Random Search Optimization.
 
-ResNet152_without_Hyperparameter.ipynb : This contains implementation of basic ResNet152 model using Adam Optimizer.
+ResNet152_without_Hyperparameter.ipynb : This filecontains implementation of basic ResNet152 model using Adam Optimizer.
+
+AppleCaps_Capsule_Network.ipynb : This file includes implementation of Capsule Network model with results attached.
+
+Clancy Quay apple leaf images.zip : This folder includes sample apple leaf images captured manually from the apple trees in Clancy Quay locality using mobile camera.
